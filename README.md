@@ -1,12 +1,15 @@
-🚴 Cyclistic Bike-Share Analysis
-📊 Project Overview
-This case study explores how annual members and casual riders use Cyclistic bikes differently. The goal is to design marketing strategies aimed at converting casual riders into annual members.
-🛠️ Tools Used
-Python (Pandas, Matplotlib, Seaborn)
-Google Colab
-🔍 Key Insights
-Usage Patterns: Annual members use bikes for consistent daily commuting, while casual riders peak on weekends and for leisure.
-Duration: Casual riders tend to have longer trip durations compared to members.
-💡 Recommendation
-Launch a "Weekend Pass" membership or targeted summer advertisements to encourage high-volume casual riders to transition to a full membership.
+# 🚴 Cyclistic Bike-Share: Marketing Strategy Analysis
+
+![Status](https://img.shields.io) ![Python](https://img.shields.io)
+
+## 📌 Business Challenge
+How do annual members and casual riders use Cyclistic bikes differently? This analysis identifies trends to help convert casual riders into long-term annual members.
+
+## 💡 Top Insights
+* **Usage Patterns:** Casual riders peak on weekends for leisure, while members show high weekday usage during commute hours (8 AM / 5 PM).
+* **Trip Duration:** Casual riders have a **2.5x longer** average trip duration compared to members.
+* **Strategy Recommendation:** Launch "Weekend-Only" membership tiers to bridge the gap for frequent casual riders.
+
+## 📬 Contact
+[LinkedIn](https://linkedin.com) | [Email](mailto:givenchinyama@gmail.com)
 
